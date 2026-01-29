@@ -1,0 +1,34 @@
+# Environment for Earth Observation Using Python (EOUP), second edition (v2)
+# Chapters 4-13: Data science and satellite imagery analysis
+# Python 3.9+ required
+name: eoupv2
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - cartopy
+  - cfgrib
+  - eccodes
+  - h5netcdf
+  - h5py
+  - ipykernel
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - metpy
+  - netcdf4
+  - numpy
+  - pandas
+  - pyresample
+  - pvlib
+  - pygrib
+  - pytorch::pytorch
+  - pytorch::torchvision
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - xarray
+  - pip
+  - pip:
+    - satpy
+    - datasets

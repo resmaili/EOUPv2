@@ -1,0 +1,299 @@
+{
+  "version": "1.0",
+  "files": [
+    {
+      "filename": "abi/OR_ABI-L1b-RadF-M6C13_G19_s20251801520210_e20251801529530_c20251801529589.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L1b-RadF-M6C13_G19_s20251801520210_e20251801529530_c20251801529589.nc",
+      "size": "24.7MB",
+      "description": "Data file: OR_ABI-L1b-RadF-M6C13_G19_s20251801520210_e20251801529530_c20251801529589.nc"
+    },
+    {
+      "filename": "abi/OR_ABI-L1b-RadM1-M6C02_G16_s20242642035250_e20242642035308_c20242642035336.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L1b-RadM1-M6C02_G16_s20242642035250_e20242642035308_c20242642035336.nc",
+      "size": "4.6MB",
+      "description": "Data file: OR_ABI-L1b-RadM1-M6C02_G16_s20242642035250_e20242642035308_c20242642035336.nc"
+    },
+    {
+      "filename": "abi/OR_ABI-L1b-RadM1-M6C03_G16_s20242642035250_e20242642035308_c20242642035343.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L1b-RadM1-M6C03_G16_s20242642035250_e20242642035308_c20242642035343.nc",
+      "size": "1.0MB",
+      "description": "Data file: OR_ABI-L1b-RadM1-M6C03_G16_s20242642035250_e20242642035308_c20242642035343.nc"
+    },
+    {
+      "filename": "abi/OR_ABI-L1b-RadM1-M6C11_G16_s20250780900277_e20250780900335_c20250780900381.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L1b-RadM1-M6C11_G16_s20250780900277_e20250780900335_c20250780900381.nc",
+      "size": "0.3MB",
+      "description": "Data file: OR_ABI-L1b-RadM1-M6C11_G16_s20250780900277_e20250780900335_c20250780900381.nc"
+    },
+    {
+      "filename": "abi/OR_ABI-L1b-RadM1-M6C13_G16_s20250780900277_e20250780900347_c20250780900399.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L1b-RadM1-M6C13_G16_s20250780900277_e20250780900347_c20250780900399.nc",
+      "size": "0.3MB",
+      "description": "Data file: OR_ABI-L1b-RadM1-M6C13_G16_s20250780900277_e20250780900347_c20250780900399.nc"
+    },
+    {
+      "filename": "abi/OR_ABI-L1b-RadM1-M6C14_G16_s20250780900277_e20250780900335_c20250780900387.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L1b-RadM1-M6C14_G16_s20250780900277_e20250780900335_c20250780900387.nc",
+      "size": "0.3MB",
+      "description": "Data file: OR_ABI-L1b-RadM1-M6C14_G16_s20250780900277_e20250780900335_c20250780900387.nc"
+    },
+    {
+      "filename": "abi/OR_ABI-L1b-RadM1-M6C15_G16_s20250780900277_e20250780900341_c20250780900390.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L1b-RadM1-M6C15_G16_s20250780900277_e20250780900341_c20250780900390.nc",
+      "size": "0.3MB",
+      "description": "Data file: OR_ABI-L1b-RadM1-M6C15_G16_s20250780900277_e20250780900341_c20250780900390.nc"
+    },
+    {
+      "filename": "abi/OR_ABI-L1b-RadM2-M6C01_G18_s20250072000550_e20250072001008_c20250072001040.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L1b-RadM2-M6C01_G18_s20250072000550_e20250072001008_c20250072001040.nc",
+      "size": "0.9MB",
+      "description": "Data file: OR_ABI-L1b-RadM2-M6C01_G18_s20250072000550_e20250072001008_c20250072001040.nc"
+    },
+    {
+      "filename": "abi/OR_ABI-L1b-RadM2-M6C02_G18_s20250072000550_e20250072001008_c20250072001034.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L1b-RadM2-M6C02_G18_s20250072000550_e20250072001008_c20250072001034.nc",
+      "size": "4.5MB",
+      "description": "Data file: OR_ABI-L1b-RadM2-M6C02_G18_s20250072000550_e20250072001008_c20250072001034.nc"
+    },
+    {
+      "filename": "abi/OR_ABI-L1b-RadM2-M6C02_G19_s20252981300559_e20252981301017_c20252981301044.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L1b-RadM2-M6C02_G19_s20252981300559_e20252981301017_c20252981301044.nc",
+      "size": "4.4MB",
+      "description": "Data file: OR_ABI-L1b-RadM2-M6C02_G19_s20252981300559_e20252981301017_c20252981301044.nc"
+    },
+    {
+      "filename": "abi/OR_ABI-L1b-RadM2-M6C03_G18_s20250072000550_e20250072001009_c20250072001047.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L1b-RadM2-M6C03_G18_s20250072000550_e20250072001009_c20250072001047.nc",
+      "size": "1.0MB",
+      "description": "Data file: OR_ABI-L1b-RadM2-M6C03_G18_s20250072000550_e20250072001009_c20250072001047.nc"
+    },
+    {
+      "filename": "abi/OR_ABI-L1b-RadM2-M6C05_G18_s20250072000550_e20250072001008_c20250072001043.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L1b-RadM2-M6C05_G18_s20250072000550_e20250072001008_c20250072001043.nc",
+      "size": "0.9MB",
+      "description": "Data file: OR_ABI-L1b-RadM2-M6C05_G18_s20250072000550_e20250072001008_c20250072001043.nc"
+    },
+    {
+      "filename": "abi/OR_ABI-L1b-RadM2-M6C13_G19_s20252981300559_e20252981301029_c20252981301078.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L1b-RadM2-M6C13_G19_s20252981300559_e20252981301029_c20252981301078.nc",
+      "size": "0.3MB",
+      "description": "Data file: OR_ABI-L1b-RadM2-M6C13_G19_s20252981300559_e20252981301029_c20252981301078.nc"
+    },
+    {
+      "filename": "acm/OR_ABI-L2-ACMM1-M6_G16_s20242642035250_e20242642035308_c20242642035485.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L2-ACMM1-M6_G16_s20242642035250_e20242642035308_c20242642035485.nc",
+      "size": "0.4MB",
+      "description": "Data file: OR_ABI-L2-ACMM1-M6_G16_s20242642035250_e20242642035308_c20242642035485.nc"
+    },
+    {
+      "filename": "ahi/HS_H09_20240910_0000_B01_FLDK_R10_S0110.DAT",
+      "url": "https://zenodo.org/records/18407746/files/HS_H09_20240910_0000_B01_FLDK_R10_S0110.DAT",
+      "size": "23.1MB",
+      "description": "Data file: HS_H09_20240910_0000_B01_FLDK_R10_S0110.DAT"
+    },
+    {
+      "filename": "ahi/HS_H09_20240910_0000_B01_FLDK_R10_S0210.DAT",
+      "url": "https://zenodo.org/records/18407746/files/HS_H09_20240910_0000_B01_FLDK_R10_S0210.DAT",
+      "size": "23.1MB",
+      "description": "Data file: HS_H09_20240910_0000_B01_FLDK_R10_S0210.DAT"
+    },
+    {
+      "filename": "ahi/HS_H09_20240910_0000_B01_FLDK_R10_S0310.DAT",
+      "url": "https://zenodo.org/records/18407746/files/HS_H09_20240910_0000_B01_FLDK_R10_S0310.DAT",
+      "size": "23.1MB",
+      "description": "Data file: HS_H09_20240910_0000_B01_FLDK_R10_S0310.DAT"
+    },
+    {
+      "filename": "ahi/HS_H09_20240910_0000_B01_FLDK_R10_S0410.DAT",
+      "url": "https://zenodo.org/records/18407746/files/HS_H09_20240910_0000_B01_FLDK_R10_S0410.DAT",
+      "size": "23.1MB",
+      "description": "Data file: HS_H09_20240910_0000_B01_FLDK_R10_S0410.DAT"
+    },
+    {
+      "filename": "ahi/HS_H09_20240910_0000_B01_FLDK_R10_S0510.DAT",
+      "url": "https://zenodo.org/records/18407746/files/HS_H09_20240910_0000_B01_FLDK_R10_S0510.DAT",
+      "size": "23.1MB",
+      "description": "Data file: HS_H09_20240910_0000_B01_FLDK_R10_S0510.DAT"
+    },
+    {
+      "filename": "ahi/HS_H09_20240910_0000_B01_FLDK_R10_S0610.DAT",
+      "url": "https://zenodo.org/records/18407746/files/HS_H09_20240910_0000_B01_FLDK_R10_S0610.DAT",
+      "size": "23.1MB",
+      "description": "Data file: HS_H09_20240910_0000_B01_FLDK_R10_S0610.DAT"
+    },
+    {
+      "filename": "ahi/HS_H09_20240910_0000_B01_FLDK_R10_S0710.DAT",
+      "url": "https://zenodo.org/records/18407746/files/HS_H09_20240910_0000_B01_FLDK_R10_S0710.DAT",
+      "size": "23.1MB",
+      "description": "Data file: HS_H09_20240910_0000_B01_FLDK_R10_S0710.DAT"
+    },
+    {
+      "filename": "ahi/HS_H09_20240910_0000_B01_FLDK_R10_S0810.DAT",
+      "url": "https://zenodo.org/records/18407746/files/HS_H09_20240910_0000_B01_FLDK_R10_S0810.DAT",
+      "size": "23.1MB",
+      "description": "Data file: HS_H09_20240910_0000_B01_FLDK_R10_S0810.DAT"
+    },
+    {
+      "filename": "ahi/HS_H09_20240910_0000_B01_FLDK_R10_S0910.DAT",
+      "url": "https://zenodo.org/records/18407746/files/HS_H09_20240910_0000_B01_FLDK_R10_S0910.DAT",
+      "size": "23.1MB",
+      "description": "Data file: HS_H09_20240910_0000_B01_FLDK_R10_S0910.DAT"
+    },
+    {
+      "filename": "ahi/HS_H09_20240910_0000_B01_FLDK_R10_S1010.DAT",
+      "url": "https://zenodo.org/records/18407746/files/HS_H09_20240910_0000_B01_FLDK_R10_S1010.DAT",
+      "size": "23.1MB",
+      "description": "Data file: HS_H09_20240910_0000_B01_FLDK_R10_S1010.DAT"
+    },
+    {
+      "filename": "aod/JRR-AOD_v3r2_j01_s202306071807538_e202306071809183_c202306071842528.nc",
+      "url": "https://zenodo.org/records/18407746/files/JRR-AOD_v3r2_j01_s202306071807538_e202306071809183_c202306071842528.nc",
+      "size": "98.8MB",
+      "description": "Data file: JRR-AOD_v3r2_j01_s202306071807538_e202306071809183_c202306071842528.nc"
+    },
+    {
+      "filename": "aod/JRR-AOD_v3r2_j01_s202501092048434_e202501092050080_c202501092128295.nc",
+      "url": "https://zenodo.org/records/18407746/files/JRR-AOD_v3r2_j01_s202501092048434_e202501092050080_c202501092128295.nc",
+      "size": "98.5MB",
+      "description": "Data file: JRR-AOD_v3r2_j01_s202501092048434_e202501092050080_c202501092128295.nc"
+    },
+    {
+      "filename": "atlas/IS2SITMOGR4_01_202503_007_004.nc",
+      "url": "https://zenodo.org/records/18407746/files/IS2SITMOGR4_01_202503_007_004.nc",
+      "size": "20.3MB",
+      "description": "Data file: IS2SITMOGR4_01_202503_007_004.nc"
+    },
+    {
+      "filename": "dsr/OR_ABI-L2-DSRM1-M6_G16_s20192091300534_e20192091300591_c20192091303116.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_ABI-L2-DSRM1-M6_G16_s20192091300534_e20192091300591_c20192091303116.nc",
+      "size": "0.2MB",
+      "description": "Data file: OR_ABI-L2-DSRM1-M6_G16_s20192091300534_e20192091300591_c20192091303116.nc"
+    },
+    {
+      "filename": "ersst/sst.mnmean.nc",
+      "url": "https://zenodo.org/records/18407746/files/sst.mnmean.nc",
+      "size": "85.1MB",
+      "description": "Data file: sst.mnmean.nc"
+    },
+    {
+      "filename": "gfs/gfs.t00z.pgrb2.1p00.anl",
+      "url": "https://zenodo.org/records/18407746/files/gfs.t00z.pgrb2.1p00.anl",
+      "size": "33.8MB",
+      "description": "Data file: gfs.t00z.pgrb2.1p00.anl"
+    },
+    {
+      "filename": "gfs/gfs.t00z.pgrb2.1p00.anl.idx",
+      "url": "https://zenodo.org/records/18407746/files/gfs.t00z.pgrb2.1p00.anl.idx",
+      "size": "0.0MB",
+      "description": "Data file: gfs.t00z.pgrb2.1p00.anl.idx"
+    },
+    {
+      "filename": "glm/OR_GLM-L2-LCFA_G19_s20252981300000_e20252981300200_c20252981300220.nc",
+      "url": "https://zenodo.org/records/18407746/files/OR_GLM-L2-LCFA_G19_s20252981300000_e20252981300200_c20252981300220.nc",
+      "size": "0.3MB",
+      "description": "Data file: OR_GLM-L2-LCFA_G19_s20252981300000_e20252981300200_c20252981300220.nc"
+    },
+    {
+      "filename": "imerg/3B-HHR.MS.MRG.3IMERG.20240927-S073000-E075959.0450.V07B.HDF5",
+      "url": "https://zenodo.org/records/18407746/files/3B-HHR.MS.MRG.3IMERG.20240927-S073000-E075959.0450.V07B.HDF5",
+      "size": "7.7MB",
+      "description": "Data file: 3B-HHR.MS.MRG.3IMERG.20240927-S073000-E075959.0450.V07B.HDF5"
+    },
+    {
+      "filename": "nucaps/NUCAPS-EDR_v3r2_j01_s202501092048589_e202501092049287_c202501092139200.nc",
+      "url": "https://zenodo.org/records/18407746/files/NUCAPS-EDR_v3r2_j01_s202501092048589_e202501092049287_c202501092139200.nc",
+      "size": "3.6MB",
+      "description": "Data file: NUCAPS-EDR_v3r2_j01_s202501092048589_e202501092049287_c202501092139200.nc"
+    },
+    {
+      "filename": "seviri/MSG3-SEVI-MSG15-0100-NA-20240920121242.473000000Z-NA.nat",
+      "url": "https://zenodo.org/records/18407746/files/MSG3-SEVI-MSG15-0100-NA-20240920121242.473000000Z-NA.nat",
+      "size": "258.6MB",
+      "description": "Data file: MSG3-SEVI-MSG15-0100-NA-20240920121242.473000000Z-NA.nat"
+    },
+    {
+      "filename": "tropomi/HAQ_TROPOMI_NO2_GLOBAL_QA75_L3_Monthly_082025_V2.4_20250912.nc4",
+      "url": "https://zenodo.org/records/18407746/files/HAQ_TROPOMI_NO2_GLOBAL_QA75_L3_Monthly_082025_V2.4_20250912.nc4",
+      "size": "37.0MB",
+      "description": "Data file: HAQ_TROPOMI_NO2_GLOBAL_QA75_L3_Monthly_082025_V2.4_20250912.nc4"
+    },
+    {
+      "filename": "txt/20250101_20250131_CalTech.lev20",
+      "url": "https://zenodo.org/records/18407746/files/20250101_20250131_CalTech.lev20",
+      "size": "1.4MB",
+      "description": "Data file: 20250101_20250131_CalTech.lev20"
+    },
+    {
+      "filename": "txt/20250105_20250112_MISR-JPL.lev15",
+      "url": "https://zenodo.org/records/18407746/files/20250105_20250112_MISR-JPL.lev15",
+      "size": "0.3MB",
+      "description": "Data file: 20250105_20250112_MISR-JPL.lev15"
+    },
+    {
+      "filename": "txt/atmos_profiles.csv",
+      "url": "https://zenodo.org/records/18407746/files/atmos_profiles.csv",
+      "size": "0.0MB",
+      "description": "Data file: atmos_profiles.csv"
+    },
+    {
+      "filename": "txt/hms_fire20250107.txt",
+      "url": "https://zenodo.org/records/18407746/files/hms_fire20250107.txt",
+      "size": "0.5MB",
+      "description": "Data file: hms_fire20250107.txt"
+    },
+    {
+      "filename": "txt/hms_fire20250108.txt",
+      "url": "https://zenodo.org/records/18407746/files/hms_fire20250108.txt",
+      "size": "1.2MB",
+      "description": "Data file: hms_fire20250108.txt"
+    },
+    {
+      "filename": "txt/hms_fire20250109.txt",
+      "url": "https://zenodo.org/records/18407746/files/hms_fire20250109.txt",
+      "size": "1.1MB",
+      "description": "Data file: hms_fire20250109.txt"
+    },
+    {
+      "filename": "txt/psu19209.dat",
+      "url": "https://zenodo.org/records/18407746/files/psu19209.dat",
+      "size": "0.3MB",
+      "description": "Data file: psu19209.dat"
+    },
+    {
+      "filename": "txt/rayleigh_optical_depth.csv",
+      "url": "https://zenodo.org/records/18407746/files/rayleigh_optical_depth.csv",
+      "size": "0.0MB",
+      "description": "Data file: rayleigh_optical_depth.csv"
+    },
+    {
+      "filename": "txt/surfrad_header.txt",
+      "url": "https://zenodo.org/records/18407746/files/surfrad_header.txt",
+      "size": "0.0MB",
+      "description": "Data file: surfrad_header.txt"
+    },
+    {
+      "filename": "viirs/VJ102IMG.A2024254.2018.021.2024255022451.nc",
+      "url": "https://zenodo.org/records/18407746/files/VJ102IMG.A2024254.2018.021.2024255022451.nc",
+      "size": "281.7MB",
+      "description": "Data file: VJ102IMG.A2024254.2018.021.2024255022451.nc"
+    },
+    {
+      "filename": "viirs/VJ103IMG.A2024254.2018.021.2024255015215.nc",
+      "url": "https://zenodo.org/records/18407746/files/VJ103IMG.A2024254.2018.021.2024255015215.nc",
+      "size": "168.8MB",
+      "description": "Data file: VJ103IMG.A2024254.2018.021.2024255015215.nc"
+    },
+    {
+      "filename": "viirs/VJ202MOD.A2024254.0624.002.2024254125517.nc",
+      "url": "https://zenodo.org/records/18407746/files/VJ202MOD.A2024254.0624.002.2024254125517.nc",
+      "size": "68.6MB",
+      "description": "Data file: VJ202MOD.A2024254.0624.002.2024254125517.nc"
+    },
+    {
+      "filename": "viirs/VJ203MOD.A2024254.0624.002.2024254124710.nc",
+      "url": "https://zenodo.org/records/18407746/files/VJ203MOD.A2024254.0624.002.2024254124710.nc",
+      "size": "45.1MB",
+      "description": "Data file: VJ203MOD.A2024254.0624.002.2024254124710.nc"
+    }
+  ]
+}
