@@ -1,3 +1,5 @@
+# Usage: python blended-hydro-daily-avg.py --cmap magma --width 20 --height 20
+
 from pathlib import Path
 import xarray as xr
 import matplotlib.pyplot as plt
@@ -33,14 +35,18 @@ def main(cmap, width, height):
     ax.coastlines(resolution='50m', color="white", linewidth=0.5)
     plt.pcolormesh(daily_average_tpw.lon, daily_average_tpw.lat, \
         daily_average_tpw_filled, cmap=cmap, vmin=1, vmax=65)
-    plt.savefig(output_file, bbox_inches='tight')
+    plt.savefig(output_file, bbox_inches='tight', pad_inches=0)
     plt.close()
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Generate blended hydro daily average plot")
-    parser.add_argument("--cmap", type=str, default="magma", help="Colormap name (default: magma)")
-    parser.add_argument("--width", type=int, default=20, help="Figure width in inches (default: 20)")
-    parser.add_argument("--height", type=int, default=20, help="Figure height in inches (default: 20)")
+    parser = argparse.ArgumentParser(\
+      description="Generate blended hydro daily average plot")
+    parser.add_argument("--cmap", type=str, default="magma", \
+      help="Colormap name (default: magma)")
+    parser.add_argument("--width", type=int, default=20, \
+      help="Figure width in inches (default: 20)")
+    parser.add_argument("--height", type=int, default=20, \
+      help="Figure height in inches (default: 20)")
     
     args = parser.parse_args()
     main(args.cmap, args.width, args.height)
