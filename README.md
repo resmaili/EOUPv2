@@ -8,7 +8,6 @@ The three main setup steps are:
 2. Install Python and necessary packages
 3. Launch Jupyter and check installation
 
-
 Note that over time, readers may find errata in the book or package syntax may change. This code repository will be updated with the most up-to-date version of the code, so if you find a discrepancy, I recommend following the content in this repository. If you find any errata, feel free to submit an issue via the GitHub repository (```Issues``` --> ```New Issues```) or you can email the author. I appreciate your feedback!
 
 ## 1. Downloading the Code and Data for the Book
