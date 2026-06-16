@@ -14,12 +14,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v6
       - run: echo "Repository checked out successfully."
 
-      - name: Set up conda
-        uses: conda-incubator/setup-miniconda@v3
+      - name: Setup Miniconda
+        uses: conda-incubator/setup-miniconda@v4
         with:
           activate-environment: eoupv2
           environment-file: environment.yml
