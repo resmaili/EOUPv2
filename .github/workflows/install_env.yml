@@ -1,0 +1,52 @@
+name: Install and Test Environment
+on: 
+  push:
+    branches: main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - run: echo "Repository checked out successfully."
+
+      - name: Set up conda
+        uses: conda-incubator/setup-miniconda@v3
+        with:
+          activate-environment: eoupv2
+          environment-file: environment.yml
+          auto-activate-base: false
+      - run: echo "Conda environment eoupv2 created successfully."
+
+      - name: Check installation
+        shell: bash -el {0}
+        run: |
+          conda activate eoupv2
+          echo "Running test_installation.ipynb..."
+          jupyter nbconvert --to notebook --execute test_installation.ipynb
+          echo "test_installation.ipynb passed."
+
+      - name: Check Zenodo link
+        run: |
+          echo "Checking Zenodo link..."
+          curl --head --fail https://doi.org/10.5281/zenodo.18407746
+          echo "Zenodo link is reachable."
+
+      - name: Validate notebooks
+        shell: bash -el {0}
+        run: |
+          python -c "
+          import json, pathlib, sys
+          bad = []
+          for nb in pathlib.Path('notebooks').rglob('*.ipynb'):
+              try:
+                  json.load(open(nb))
+                  print(f'OK: {nb}')
+              except json.JSONDecodeError as e:
+                  bad.append(f'FAILED: {nb}: {e}')
+          if bad:
+              print('\n'.join(bad)); sys.exit(1)
+          print('All notebooks valid.')
+          "
