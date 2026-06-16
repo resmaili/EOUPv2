@@ -1,8 +1,5 @@
-/data/
 /notebooks/data/
 /notebooks/models/
-/notebooks/README-for-reviewers.md
-environment-new-chapters.yml
 
 # Python
 __pycache__/
@@ -29,6 +26,7 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+*.zip
 
 # Matplotlib
 *.png
