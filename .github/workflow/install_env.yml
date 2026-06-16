@@ -1,10 +1,7 @@
 name: Install and Test Environment
-
-on:
+on: 
   push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
+    branches: main
 
 jobs:
   build:
