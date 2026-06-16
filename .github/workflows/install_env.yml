@@ -1,7 +1,13 @@
 name: Install and Test Environment
-on: 
+
+on:
   push:
-    branches: main
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   build:
@@ -17,7 +23,8 @@ jobs:
         with:
           activate-environment: eoupv2
           environment-file: environment.yml
-          auto-activate-base: false
+          auto-activate: false
+          conda-remove-defaults: true
       - run: echo "Conda environment eoupv2 created successfully."
 
       - name: Check installation
