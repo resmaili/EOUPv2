@@ -15,7 +15,7 @@ def main(cmap, width, height):
     for file in files:
       df.append(xr.open_dataset(file, decode_timedelta=True))
 
-    # Combime files across the time dimension and calculate the daily average
+    # Combine files across the time dimension and calculate the daily average
     combined_ds = xr.concat(df, dim='time')
     daily_average_tpw = combined_ds['TPW'].mean(dim='time')
 
